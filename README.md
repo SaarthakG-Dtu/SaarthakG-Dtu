@@ -1,142 +1,131 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">👨‍💻 Saarthak Gupta</h1>
-<h3 align="center">🧠 Aspiring AI Researcher | 👁️ Computer Vision | 🤖 Multimodal AI | 🌍 World Modelling</h3>
+<h1 align="center">Saarthak Gupta</h1>
+<h3 align="center">Aspiring AI Researcher | Computer Vision | Multimodal Perception | World Modelling</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+AI+Researcher;Computer+Vision+%7C+Multimodal+Perception;Building+Real-World+Intelligent+Systems;Exploring+AI+Reasoning+and+World+Models&center=true&width=900&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Research+%7C+Computer+Vision;Multimodal+Perception+Systems;Real-World+Intelligent+AI;Exploring+Reasoning+and+World+Models&center=true&width=900&height=45">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaarthakG-Dtu&label=Profile+Views&style=for-the-badge&color=0A66C2"/>
+  <img src="https://komarev.com/ghpvc/?username=SaarthakG-Dtu&label=Profile+Views&style=for-the-badge"/>
 </p>
-
-<!-- ================= HERO GIF ================= -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
 
-# 🌱 About Me
+## 🌱 About Me
 
-🎓 B.Tech in Mathematics & Computing @ Delhi Technological University (DTU)
-🔬 Deeply interested in the intersection of **Computer Vision, Multimodal AI, and Intelligent Perception Systems**
+I am a B.Tech student in Mathematics & Computing at Delhi Technological University (DTU) with a strong interest in **Computer Vision, Multimodal AI, and real-world perception systems**.
 
-I am passionate about building AI systems that can
-✨ perceive the real world
-🧩 reason over complex environments
-🌍 and move towards true world modelling
-
-Currently exploring research directions in perception-driven AI and real-world intelligent systems.
+My primary focus lies in building intelligent systems that can perceive complex environments, fuse multimodal signals, and move toward more robust world modelling and reasoning capabilities. I am particularly drawn to research at the intersection of deep learning, perception, and real-world deployment.
 
 ---
 
-# 🚁 Research Exposure & Learning Journey
+## 🔬 Research Interests
 
-## 🛰️ UAS-DTU | Software Team (DARPA TRIAGE Challenge)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380"/>
-</p>
-
-🌟 Contributed to a real-time **multimodal perception system** for medical triaging
-🧠 Explored sensor fusion, motion understanding, and perception pipelines
-👁️ Worked with vision + depth based modelling approaches
-📊 Experimented with temporal modelling using LSTM for motion analysis
-
-This experience strengthened my interest in **real-world AI systems and multimodal perception research**.
+* Computer Vision & Scene Understanding
+* Multimodal Models (Vision + Sensor Fusion)
+* AI for Real-World Perception Systems
+* World Modelling and Reasoning in AI
+* Autonomous and Aerial Intelligence
 
 ---
 
-# 🔬 Research Interests (What I Aim to Work On)
+## 🚁 Research Exposure
 
-👁️ Computer Vision & Scene Understanding
-🤖 Multimodal Models (Vision + Sensor Fusion)
-🧠 AI Reasoning & World Models
-🛰️ Autonomous & Aerial Perception Systems
-📡 Real-Time Intelligent Systems
+### UAS-DTU | Software Team — DARPA TRIAGE Challenge (2025)
 
----
+Contributed to the development of a real-time multimodal perception system for medical triaging in a high-stakes, real-world setting.
 
-# 🛠️ Technical Stack
+My work involved exploring perception pipelines that integrate vision and motion signals, with emphasis on:
 
-## 💻 Languages
+* LiDAR and depth-based signal fusion
+* YOLO-based segmentation for region-level perception
+* Dense pixel tracking for motion understanding
+* Temporal modelling using LSTM for fine-grained motor activity analysis
 
-🐍 Python (Primary)
-⚙️ C++ (Foundational)
+This experience significantly shaped my interest in multimodal perception and research-driven AI systems deployed beyond controlled lab environments.
 
 ---
 
-## 🤖 AI / Deep Learning
+## 🛠️ Technical Stack
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CNNs-FF1493?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RNNs-20B2AA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UNet-008080?style=for-the-badge"/>
-</p>
+### Programming
 
----
+* Python (Primary)
+* C++ (Foundational)
 
-## 👁️ Computer Vision & Perception
+### Machine Learning & Deep Learning
 
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Semantic_Segmentation-FF8C00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Image_Processing-4682B4?style=for-the-badge"/>
-</p>
+* PyTorch
+* Scikit-Learn
+* Hugging Face Transformers
+* CNNs, RNNs, UNet Architectures
 
----
+### Computer Vision & Perception
 
-## 📊 Data & Core Libraries
+* OpenCV
+* YOLO (Detection & Segmentation)
+* Semantic Segmentation Pipelines
+* Image Processing & Feature Extraction
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-</p>
+### Data & Scientific Computing
 
----
+* NumPy
+* Pandas
 
-# 🚀 Projects & Explorations
+### Academic Foundations
 
-## 🛰️ Semantic Segmentation on Aerial Drone Images
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="420"/>
-</p>
-
-🔹 Built UNet with transfer learning backbone using PyTorch
-🔹 Designed patching & reconstruction pipeline for high-resolution aerial data
-🔹 Focused on detecting small objects in large-scale imagery
-🔹 Optimized training with OneCycleLR & AdamW
+* Data Structures
+* Discrete Mathematics
+* Probability & Statistics
+* Calculus and Real Analysis
 
 ---
 
-## 🍎 Vision-Based Fruit Counting System
+## 🚀 Selected Projects
 
-🔸 Dual-view detection using YOLOv8 + OpenCV
-🔸 Homography transformation with ORB feature matching
-🔸 Color-aware detection using HSV masking
-🔸 Spatial matching using Euclidean distance logic
+### 🛰️ Semantic Segmentation on Aerial Drone Imagery
 
----
+Developed a high-resolution semantic segmentation pipeline tailored for aerial datasets with large image sizes and fine-grained object distribution.
 
-## 🧩 Multimodal Perception Experiments
-
-🔹 Sensor fusion (Vision + Depth + Motion signals)
-🔹 Temporal modelling using LSTM architectures
-🔹 Dense pixel tracking & motion feature engineering
-🔹 Real-time perception pipeline exploration
+* Implemented a UNet-based architecture with a transfer learning backbone in PyTorch
+* Designed a custom patching and reconstruction workflow to preserve spatial resolution in gigapixel-scale imagery
+* Addressed class imbalance using a hybrid Dice + Cross-Entropy loss
+* Optimized convergence using AdamW and OneCycleLR scheduling
+  The project focused on robust detection of small objects such as vehicles and pedestrians in complex aerial scenes.
 
 ---
 
-# 📈 GitHub Analytics
+### 🍎 Vision-Based Fruit Counting using YOLOv8 and OpenCV
+
+Built a dual-view fruit detection and counting system leveraging geometric alignment and color-aware detection.
+
+* Used ORB feature matching and RANSAC for homography-based image alignment
+* Applied HSV color masking for improved multi-color fruit detection
+* Designed a custom matching logic using spatial proximity and Euclidean distance thresholds
+* Integrated YOLOv8 for reliable object detection across viewpoints
+  This project emphasized practical computer vision system design beyond standard single-image inference.
+
+---
+
+### 🧩 Multimodal Perception Experiments (DARPA-Oriented Work)
+
+Explored perception architectures that combine motion, depth, and visual cues for real-time understanding.
+
+* Implemented dense pixel tracking for motion feature extraction
+* Engineered displacement and angular flow-based features for temporal modelling
+* Developed LSTM-based classifiers for fine-grained motor signal interpretation
+* Investigated sensor fusion strategies for real-world perception pipelines
+  These explorations strengthened my inclination toward research in multimodal and real-time AI systems.
+
+---
+
+## 📈 GitHub Activity & Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaarthakG-Dtu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -149,30 +138,30 @@ This experience strengthened my interest in **real-world AI systems and multimod
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-🎓 B.Tech — Mathematics & Computing
-📍 Delhi Technological University (DTU)
-
----
-
-# 🎯 Current Focus
-
-🧠 Strengthening fundamentals in Deep Learning & Mathematical Foundations
-👁️ Advancing in Computer Vision & Multimodal AI
-📚 Preparing for AI Research Internships & MS in AI / Robotics
-🔬 Exploring perception, reasoning, and world modelling systems
+**B.Tech in Mathematics & Computing**
+Delhi Technological University (DTU)
 
 ---
 
-# 🌍 Connect
+## 🎯 Current Focus
 
-📧 Email: [saarthakgupta2006@gmail.com](mailto:saarthakgupta2006@gmail.com)
-💻 GitHub: https://github.com/SaarthakG-Dtu
-🔗 LinkedIn: (Add your LinkedIn URL)
+* Strengthening theoretical foundations in Machine Learning and Mathematics
+* Advancing in Computer Vision and Multimodal Perception
+* Building research-oriented AI projects with real-world relevance
+* Preparing for AI Research Internships and MS in AI / Robotics
+
+---
+
+## 🌍 Connect
+
+* Email: [saarthakgupta2006@gmail.com](mailto:saarthakgupta2006@gmail.com)
+* GitHub: https://github.com/SaarthakG-Dtu
+* LinkedIn: (Add your LinkedIn profile)
 
 ---
 
 <p align="center">
-✨ Curious about intelligence. Focused on perception. Aiming for impactful AI research. ✨
+Focused on perception-driven AI, with the long-term goal of contributing to research in intelligent real-world systems.
 </p>
