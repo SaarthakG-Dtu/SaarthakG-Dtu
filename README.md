@@ -172,7 +172,9 @@ Delhi Technological University (DTU)
 
 * Email: [saarthakgupta2006@gmail.com](mailto:saarthakgupta2006@gmail.com)
 * GitHub: https://github.com/SaarthakG-Dtu
-* LinkedIn: (Add your LinkedIn)
+* LinkedIn: www.linkedin.com/in/saarthakgupta2006
+
+
 
 ---
 
