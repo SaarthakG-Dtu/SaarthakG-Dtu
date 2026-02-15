@@ -1,5 +1,3 @@
-<!-- ================= PREMIUM HEADER ================= -->
-
 <h1 align="center">
   👨‍💻 Saarthak Gupta
 </h1>
@@ -64,6 +62,7 @@ This experience shaped my research inclination toward multimodal perception and 
 <p>
   <img src="https://img.shields.io/badge/Python-Primary-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-Foundational-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 ### 🤖 Machine Learning & Deep Learning
