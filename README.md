@@ -1,9 +1,9 @@
 <h1 align="center">
-  👨‍💻 Saarthak Gupta
+  Saarthak Gupta
 </h1>
 
 <h3 align="center">
-  🧠 Aspiring AI Researcher • 👁️ Computer Vision • 🤖 Multimodal Perception • 🌍 World Modelling
+  Aspiring AI Researcher • Computer Vision • Multimodal Perception • Embodied AI
 </h3>
 
 <p align="center">
@@ -101,9 +101,9 @@ This experience shaped my research inclination toward multimodal perception and 
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
-### 🛰️ Semantic Segmentation on Aerial Drone Imagery
+### Semantic Segmentation on Aerial Drone Imagery
 
 Developed a high-resolution semantic segmentation pipeline tailored for aerial datasets with fine-grained object distributions.
 
@@ -115,7 +115,7 @@ Developed a high-resolution semantic segmentation pipeline tailored for aerial d
 
 ---
 
-### 🍎 Vision-Based Fruit Counting using YOLOv8 and OpenCV
+### Vision-Based Fruit Counting using YOLOv8 and OpenCV
 
 Designed a dual-view fruit detection and counting system combining geometric alignment and vision-based detection.
 
@@ -127,7 +127,7 @@ Designed a dual-view fruit detection and counting system combining geometric ali
 
 ---
 
-### 🧩 Multimodal Perception Experiments
+### Multimodal Perception Experiments
 
 Explored perception pipelines combining motion, depth, and visual signals for real-time understanding.
 
@@ -138,7 +138,7 @@ Explored perception pipelines combining motion, depth, and visual signals for re
 
 ---
 
-## 📈 GitHub Activity & Analytics
+## GitHub Activity & Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaarthakG-Dtu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -151,14 +151,14 @@ Explored perception pipelines combining motion, depth, and visual signals for re
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Tech in Mathematics & Computing**
 Delhi Technological University (DTU)
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 * Strengthening mathematical foundations for AI research
 * Advancing in Computer Vision and Multimodal Perception
@@ -167,7 +167,7 @@ Delhi Technological University (DTU)
 
 ---
 
-## 🌍 Connect
+## Connect
 
 * Email: [saarthakgupta2006@gmail.com](mailto:saarthakgupta2006@gmail.com)
 * GitHub: https://github.com/SaarthakG-Dtu
