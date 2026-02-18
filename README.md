@@ -64,7 +64,7 @@ This experience shaped my research inclination toward multimodal perception and 
 <p>
   <img src="https://img.shields.io/badge/Python-Primary-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-Foundational-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="[https://img.shields.io/badge](https://img.shields.io/badge/-Linux-grey?logo=linux)/Linux-Ubuntu-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-grey?logo=linux)/Linux-Ubuntu-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 ### 🤖 Machine Learning & Deep Learning
@@ -129,11 +129,11 @@ Designed a dual-view fruit detection and counting system combining geometric ali
 
 ---
 
-### Multimodal Perception Experiments
+### Darpa Triage Challenge
 
 Explored perception pipelines combining motion, depth, and visual signals for real-time understanding.
 
-* Dense pixel tracking for motion feature extraction
+* Dense pixel tracking for motion feature extraction using LiDAR and depth camera.
 * Feature engineering using displacement and angular flow patterns
 * LSTM-based temporal modelling for sequential motor signal analysis
 * Investigation of sensor fusion strategies for perception systems
