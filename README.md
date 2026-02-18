@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Research+%7C+Computer+Vision;Multimodal+Perception+Systems;Real-World+Intelligent+AI;Exploring+Reasoning+and+World+Models&center=true&width=900&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Research+%7C+Computer+Vision;Multimodal+Perception+Systems;Real-World+Intelligent+AI&center=true&width=900&height=45">
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ This experience shaped my research inclination toward multimodal perception and 
 <p>
   <img src="https://img.shields.io/badge/Python-Primary-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-Foundational-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="[https://img.shields.io/badge](https://img.shields.io/badge/-Linux-grey?logo=linux)/Linux-Ubuntu-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 ### 🤖 Machine Learning & Deep Learning
